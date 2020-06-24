@@ -57,7 +57,7 @@
 <v t="leo.20200624130431.1"><vh>12</vh>
 <v t="leo.20200624130431.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200624131221.1"><vh>12</vh>
+<v t="leo.20200624131221.1"><vh>13</vh>
 <v t="leo.20200624131221.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
@@ -374,13 +374,13 @@ vertical: body pane on the botton</t>
 
 * 建立個人倉儲cd2020
 
-*python3.7.3更新至python3.8.2版本
+* python3.7.3更新至python3.8.2版本
 
-*進行隨機分組
+* 進行隨機分組
 
-*直播分配Assingment1
+* 直播分配Assingment1
 
-*完成Assingment1
+* 完成Assingment1
 </t>
 <t tx="leo.20200624122735.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -405,9 +405,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624122740.2">## [Assingment1](https://github.com/s40723205/cd2020/blob/master/downloads/Assignment%201.pdf)
 
-##[python3.7.3更新至python3.8.2版本](https://s40723205.github.io/cd2020/content/%E7%AC%AC1%E3%80%9C5%E9%80%B1.html)
+## [python3.7.3更新至python3.8.2版本](https://s40723205.github.io/cd2020/content/%E7%AC%AC1%E3%80%9C5%E9%80%B1.html)
 
-##[進行隨機分組](https://github.com/s40723205/cd2020/blob/master/downloads/%E8%AB%8B%E6%8F%8F%E8%BF%B0%E5%A6%82%E4%BD%95%E9%87%9D%E5%B0%8D%E8%A9%B2%E8%AA%B2%E7%A8%8B%E9%80%B2%E8%A1%8C%E6%9C%89%E6%95%88%E7%9A%84%E9%9A%A8%E6%A9%9F%E5%88%86%E7%B5%84.pdf)
+## [進行隨機分組](https://github.com/s40723205/cd2020/blob/master/downloads/%E8%AB%8B%E6%8F%8F%E8%BF%B0%E5%A6%82%E4%BD%95%E9%87%9D%E5%B0%8D%E8%A9%B2%E8%AA%B2%E7%A8%8B%E9%80%B2%E8%A1%8C%E6%9C%89%E6%95%88%E7%9A%84%E9%9A%A8%E6%A9%9F%E5%88%86%E7%B5%84.pdf)
 </t>
 <t tx="leo.20200624122742.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -420,15 +420,15 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624122742.2">## [week6~week9](https://s40723205.github.io/cd2020/content/6%E3%80%9C9%E9%80%B1.html)
 
-*第二次小組直播會議
+* 第二次小組直播會議
 
-*Python遠程api安裝模組
+* Python遠程api安裝模組
 
-*解決leo閃退問題
+* 解決leo閃退問題
 
-*完成Assingment 2
+* 完成Assingment 2
 
-*期中個人報告影片</t>
+* 期中個人報告影片</t>
 <t tx="leo.20200624122743.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -438,7 +438,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624122743.2">## [第三組第二次直播會議]
+<t tx="leo.20200624122743.2">## 第三組第二次直播會議
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IX0Xw1ROTgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -453,7 +453,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624122745.2">## [Assingment 2](https://github.com/s40723205/cd2020/blob/master/downloads/Assignment2.pdf)
 
-*[期中個人報告影片](https://drive.google.com/drive/u/1/my-drive)
+* [期中個人報告影片](https://drive.google.com/drive/u/1/my-drive)
 
 </t>
 <t tx="leo.20200624122747.1">&lt;section data-markdown&gt;
@@ -467,17 +467,17 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624122747.2">## [week10~week14](https://s40723205.github.io/cd2020/content/10%E3%80%9C14%E9%80%B1.html)
 
-*進行之後的直播會議
+* 進行之後的直播會議
 
-*gm用戶登錄設置
+* gm用戶登錄設置
 
-*Ubuntu設定及API連線
+* Ubuntu設定及API連線
 
-*使用ssh上傳連線設定
+* 使用ssh上傳連線設定
 
-*完成Assignment3
+* 完成Assignment3
 
-*隨機分組抽點</t>
+* 隨機分組抽點</t>
 <t tx="leo.20200624122748.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -525,7 +525,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624130429.2">## [Assignment3-1](https://github.com/s40723205/cd2020/blob/master/downloads/Assignment3-1.pdf)
 
-*[Assignment3-2](https://github.com/s40723205/cd2020/blob/master/downloads/Assignment3-2.pdf)</t>
+* [Assignment3-2](https://github.com/s40723205/cd2020/blob/master/downloads/Assignment3-2.pdf)</t>
 <t tx="leo.20200624130431.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -537,13 +537,13 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624130431.2">## [week15~week18](https://s40723205.github.io/cd2020/content/15%E3%80%9C18%E9%80%B1.html)
 
-*IPv6對外連線個人倉儲
+* IPv6對外連線個人倉儲
 
-*隨機分組抽點
+* 隨機分組抽點
 
-*完成最終項目報告
+* 完成最終項目報告
 
-*完成期末報告</t>
+* 完成期末報告</t>
 <t tx="leo.20200624131221.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
