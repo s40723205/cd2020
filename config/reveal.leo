@@ -372,7 +372,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624122718.2">## [week1~week5](https://s40723205.github.io/cd2020/content/%E7%AC%AC1%E3%80%9C5%E9%80%B1.html)
 
-*建立個人倉儲cd2020
+* 建立個人倉儲cd2020
 
 *python3.7.3更新至python3.8.2版本
 
