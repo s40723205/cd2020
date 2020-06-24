@@ -60,6 +60,9 @@
 <v t="leo.20200624131221.1"><vh>13</vh>
 <v t="leo.20200624131221.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200624135125.1"><vh>14</vh>
+<v t="leo.20200624135125.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -554,5 +557,17 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200624131221.2">## [最終項目](https://github.com/s40723205/cd2020/blob/master/downloads/Final%20project.pdf)</t>
+<t tx="leo.20200624135125.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624135125.2">## [期末報告影片](https://www.youtube.com/watch?v=0gvPxJOgXzA)
+
+&lt;iframe width="900" height="506" src="https://www.youtube.com/embed/0gvPxJOgXzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
